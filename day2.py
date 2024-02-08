@@ -65,9 +65,6 @@ print(6 == 6 and 8 == 9)
 print(8 == 9 and 9 == 8)
 
 
-#or  
-
-#not 
 
 
 
